@@ -44,7 +44,7 @@ body {
   padding-left: 40px;
   padding-top: 40px;
   padding-bottom: 36px;
-  background:  url('/assets/ellipse.png') no-repeat 13% 78% / 71%, url('/assets/2.png') no-repeat -231% 50% / 118%, linear-gradient(180deg, #428A60 0%, #35734F 100%);
+  background:  url('../assets/ellipse.png') no-repeat 13% 78% / 71%, url('../assets/2.png') no-repeat -231% 50% / 118%, linear-gradient(180deg, #428A60 0%, #35734F 100%);
   color: var(--white);
 }
 
@@ -182,7 +182,7 @@ body {
 
 .input-btn span {
   display: block;
-  background-image: url('/assets/right-arrow.svg');
+  background-image: url('../assets/right-arrow.svg');
   background-repeat: no-repeat;
   background-position: 70% center;
 }
@@ -238,7 +238,7 @@ body {
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 32px;
-    background: url('/assets/ellipse.png') no-repeat center 100% / 63% var(--white);
+    background: url('../assets/ellipse.png') no-repeat center 100% / 63% var(--white);
   }
 
   .mobile-name {
@@ -307,7 +307,7 @@ body {
     justify-content: center;
     padding: 11px;
     background-color: var(--gray);
-    background-image: url('/assets/lock.svg');
+    background-image: url('../assets/lock.svg');
     background-repeat: no-repeat;
     background-position: center;
   }
